@@ -1,4 +1,4 @@
-# Project Name
+# Social Media in Gaza
 
 A comprehensive analysis of social media influencers in Gaza.
 
